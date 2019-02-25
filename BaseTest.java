@@ -27,8 +27,8 @@ import java.util.concurrent.TimeUnit;
 /**
  * Created by daniel on 1/22/15.
  */
-//ToDo
-//FIXME
+// ToDo - Testing Tech Insights
+// FIXME - Testing Tech Insights
 public class BaseTest
 {
 
@@ -105,8 +105,8 @@ public class BaseTest
         this.driver = null;
 
     }
-//ToDo
-//FIXME
+// ToDo - Testing Tech Insights
+// FIXME - Testing Tech Insights
 
 
     public void waitForPageLoaded(WebDriver driver) {
